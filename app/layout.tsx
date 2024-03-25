@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'React Draggable Next.js Demo',
+  title: 'React Matrix Scroll Demo',
   description: 'Created by rickiezheng',
 }
 
