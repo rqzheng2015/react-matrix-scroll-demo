@@ -1,6 +1,6 @@
 # React-Matrix-Scroll-Demo
 
-This is a demo project to show how to use [css matrix](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/matrix), `Next.js` and `Tailwindcss` to build up a canvas with the support of scrolling
+This is a demo project showing how to use [css matrix](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/matrix), `Next.js` and `Tailwindcss` to build up a canvas with the support of scrolling smoothly.
 
 ## Prerequisites
 
